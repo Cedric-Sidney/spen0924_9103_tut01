@@ -21,7 +21,7 @@ I want to **gradually reconstruct an image** by randomly selecting and drawing p
 
 The technique I found doesn't match my idea exactly, it draws randomly sized pixelated rectangles in random locations. However, it still inspires me. I plan to **modify it** so that the blocks **accumulate in their correct positions**, gradually revealing the full image.
 
-[Example mplementation](https://editor.p5js.org/pattvira/sketches/t60YF1GVJ)
+[Example implementation](https://editor.p5js.org/pattvira/sketches/t60YF1GVJ)
 
 ![Technical exploration screenshot](./assets/technical1.png)
 
